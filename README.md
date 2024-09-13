@@ -1,0 +1,1 @@
+Accuracy comparison between ml models like logistic regression , decision tree , nave bayes ,KNN ,Random forst ,Xgboost for diabetes prediction using dataset https://ieee-dataport.org/open-access/dataset-people-their-blood-glucose-level-their-superficial-body-feature-readings
